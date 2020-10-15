@@ -1,2 +1,2 @@
 # TestProject
-Test project for Avito
+Test project c# + Selenium 
